@@ -16,7 +16,7 @@
 <a href="https://twitter.com/deep_poharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deep_poharkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deep poharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep poharkar" height="30" width="40" /></a>
 <a href="https://instagram.com/photxnray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="photxnray" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/photonray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photonray" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCj5psLsUZ6GxktoNLYe6v-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photonray" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
