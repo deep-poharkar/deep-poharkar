@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/deep_poharkar" target="blank"><img src="https://img.shields.io/twitter/follow/deep_poharkar?logo=twitter&style=for-the-badge" alt="deep_poharkar" /></a> </p>
 
-- 🌱 I’m currently learning **Web development.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
