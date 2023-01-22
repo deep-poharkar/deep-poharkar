@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-poharkar&label=Profile%20views&color=0e75b6&style=flat" alt="deep-poharkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deep_poharkar" target="blank"><img src="https://img.shields.io/twitter/follow/deep_poharkar?logo=twitter&style=for-the-badge" alt="deep_poharkar" /></a> </p>
-
 - 🔭 I’m currently working on [CLI-Helper](https://github.com/deep-poharkar/CLIhelper)
 
 - 🌱 I’m currently learning **DevOps and Problem Solving.**
