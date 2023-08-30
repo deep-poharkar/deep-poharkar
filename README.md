@@ -14,18 +14,18 @@
 ```javascript
 const deep = {
     pronouns: "He" | "Him",
-    code: [ "C/C++", "Java", "JavaScript", "Python"],
-    askMeAbout: ["Open Source", "web dev", "Technology", "Film-making", "Gaming"],
+    code: [ "C/C++", "GO", "Java", "JavaScript", "Python"],
+    askMeAbout: ["Open Source","DevOps", "Web Dev", "Technology", "Film-making", "Gaming"],
     technologies: {
         frontEnd:{
             js: ["React"]
         }
         backEnd: {
-            js: ["Django", "Postman"],
+            js: ["Django", "NodeJs", "Postman"],
         },
 
-        devOps: ["AWS", "Docker🐳", "GitOps", "Jenkins" , "Github Actions" , "ArgoCD", "Kubernetes"],
-        databases: ["PostgreSQL"],
+        devOps: ["AWS", "Docker🐳", "Jenkins" , "Github Actions" , "Kubernetes"],
+        databases: ["PostgreSQL", MongoDB],
     },
     currentFocus: "Backend, Devops and Container Orchestration",
     funFact: "There are two ways to write error-free programs; only the third one works"
