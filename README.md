@@ -25,7 +25,7 @@ const deep = {
         },
 
         devOps: ["AWS", "Docker🐳", "Jenkins" , "Github Actions" , "Kubernetes"],
-        databases: ["PostgreSQL", MongoDB],
+        databases: ["PostgreSQL", "MongoDB"],
     },
     currentFocus: "Backend, Devops and Container Orchestration",
     funFact: "There are two ways to write error-free programs; only the third one works"
