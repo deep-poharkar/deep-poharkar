@@ -65,17 +65,17 @@ const deep = {
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/gmail.png" />
+<a href="mailto:deeppoharkar21@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/deep-poharkar-96202b229/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://twitter.com/deep_poharkar">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/twitter.gif" />
+<a href="https://www.reddit.com/user/deeppoharkar07">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png"/>
 </a>
 </br>
 </br>
