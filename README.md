@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Deep pursuing my undergrad in Information Technology.</h1>
-<h3 align="center">I love contributing to open source and making new projects.</h3>
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-poharkar&label=Profile%20views&color=0e75b6&style=flat" alt="deep-poharkar" /> </p>
 
-- 👯 I’m looking to collaborate on **open source projects.**
+# About ME 💬 :
 
-- 📫 How to reach me **deeppoharkar21@gmail.com**
+### - I'm Deep: a 21-year-old Open Source Enthusiast Pursuing Undergrad in Information Technology.
 
-- ⚡ Fun fact **i make videos too (sometimes).**
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/1936.gif">
+
+### - Learning :
+
+- ✨ DevOps
+- ✨ Data Structures & Algorithms
+- ✨ Blockchain
+
+### - Hobbies :
+
+- ✨ Playing Cricket
+- ✨ Making Videos
+- ✨ Watching Anime
+- ✨ Singing (during shower)
+
+</br>
+</br>
+</br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A bit more about me...
 
@@ -32,12 +56,39 @@ const deep = {
 };
 ```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deep-poharkar&show_icons=true&locale=en" alt="deep-poharkar" /></p>
+# Contact Me :
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deep_poharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deep_poharkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deep poharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep poharkar" height="30" width="40" /></a>
-<a href="https://instagram.com/photxnray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="photxnray" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/photonray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photonray" height="30" width="40" /></a>
-</p>
+<p>
+ </br>
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/deep-poharkar-96202b229/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://twitter.com/deep_poharkar">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/twitter.gif" />
+</a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=deep-poharkar&show_icons=true&locale=en"/>
+  </a>
+  </p>
+
+---
