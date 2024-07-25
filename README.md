@@ -6,7 +6,7 @@
 
 # About ME 💬 :
 
-### - I'm Deep: a 21-year-old Open Source Enthusiast Pursuing Undergrad in Information Technology.
+### - I'm Deep: a 22-year-old Open Source Enthusiast Pursuing Undergrad in Information Technology.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/deep-poharkar/deep-poharkar/blob/main/assets/1936.gif">
 
