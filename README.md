@@ -1,7 +1,7 @@
 ```bash
 > help --info
 > likes playing cricket, listening to music, trying to learn everything, and overthinking (professionally).
-> worked on AWS as a GSoC mentee, still cannot believe i got selected and graduated.
+> worked on AWS as a GSoC mentee, still cannot believe got selected and graduated.
 > worked with Go and Kubernetes as an LFX mentee at LitmusChaos under CNCF.
 > sometimes solve problems on leetcode.
 > final-year undergrad(2025), majoring in IT.
